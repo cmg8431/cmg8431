@@ -16,7 +16,9 @@
 
 ###### Good day!
 ###### I'm a student studying to become a developer 
-###### If you want to contact me, please leave me a message!
+###### If you want to contact me, please leave me a email!
+###### -> my email : cmg8431@gmail.com
+
 <br>
 
 <h3>My skil 🛠<h3>
