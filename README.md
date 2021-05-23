@@ -1,6 +1,4 @@
-
-
-<h2> Hi there 👋, Mingi </ h1>
+<h2> Hi there 👋</h2>
 <h3> Hello l'm Mingi Choe </ h3>
 
 
