@@ -19,7 +19,7 @@
 ###### If you want to contact me, please leave me a message!
 <br>
 
-<h2>My skil<h2>
+<h3>My skil 🛠<h3>
 <div align="left">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
